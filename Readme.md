@@ -16,14 +16,18 @@ This project documents the development of a compact, handheld wireless trackball
 ### Requirements
 
 - [firmware (TBA) ](https://github.com/amgskobo/config-fuwat-mouse)
-
+- 1x Xiao BLE
+- 10x micro key swtich
+- 10x 1N4148 diode
+- 500mAh Lipo battery
+  
 ### Article
 
 - https://note.com/amgskobo/n/n39ae0e2d3ca7
 
 ## Author
 
-- [amgskobo](https://github.com/amgskobo)
+- https://x.com/amgskobo
 
 ---
 
