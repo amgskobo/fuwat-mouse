@@ -1,7 +1,6 @@
 # fuwat-mouse (仮)
 
-
-Welcome to the **fuwat_mouse** repository!
+https://github.com/user-attachments/assets/fa95952d-c69b-4201-aef6-798942abb8b3
 
 ## Project Summary
 
@@ -14,9 +13,9 @@ This project documents the development of a compact, handheld wireless trackball
 - **Highly compact:** All features packed into a tiny enclosure.
 
 
-### Prerequisites
+### Requirements
 
-- [firmware](https://github.com/amgskobo/config-fuwat-mouse)
+- [firmware (TBA) ](https://github.com/amgskobo/config-fuwat-mouse)
 
 ### Article
 
