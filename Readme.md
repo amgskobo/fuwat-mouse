@@ -1,4 +1,4 @@
-# fuwat-mouse (仮)
+# fuwat-mouse-az1
 
 https://github.com/user-attachments/assets/fa95952d-c69b-4201-aef6-798942abb8b3
 
