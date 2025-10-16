@@ -1,4 +1,4 @@
-# Fuwat Mouse AZ1 
+# Fuwat Mouse AZ1U
 
 https://github.com/user-attachments/assets/fa95952d-c69b-4201-aef6-798942abb8b3
 
@@ -19,7 +19,7 @@ This project is a compact, handheld wireless trackball device ("air mouse") buil
 - リアルタイムカスタマイズ: ZMK Studio を使用してキーマップやレイヤーを即時に変更可能。
 - 高いコンパクト性: すべての機能を小型筐体に集約。
 
-販売は未定
+販売は未定です。
 
 ### Requirements
 
